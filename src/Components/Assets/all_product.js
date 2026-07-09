@@ -1,4 +1,4 @@
-import p1_img from "./Fabric/dee.jpg";
+import p1_img from "./Fabric/Gee1.jpg";
 import p2_img from "./Fabric/gee2.jpg";
 import p3_img from "./Fabric/gee3.jpg";
 import p4_img from "./Fabric/gee4.jpg";
@@ -40,7 +40,7 @@ import p36_img from "./Fabric/gee36.jpg";
 let all_product = [
   {
     id: 1,
-    name: "Premium Cotton Fabric",
+    // name: "Premium Cotton Fabric",
     category: "women",
     image: p1_img,
     new_price: "Buy Now",
@@ -48,7 +48,7 @@ let all_product = [
   },
   {
     id: 2,
-    name: "100% Pure Cotton Fabric",
+    // name: "100% Pure Cotton Fabric",
     category: "women",
     image: p2_img,
     new_price: "Buy Now",
@@ -56,7 +56,7 @@ let all_product = [
   },
   {
     id: 3,
-    name: "Soft Woven Cotton",
+    // name: "Soft Woven Cotton",
     category: "women",
     image: p3_img,
     new_price: "Buy Now",
@@ -64,7 +64,7 @@ let all_product = [
   },
   {
     id: 4,
-    name: "Organic Cotton Textile",
+    // name: "Organic Cotton Textile",
     category: "women",
     image: p4_img,
     new_price: "Buy Now",
@@ -72,7 +72,7 @@ let all_product = [
   },
   {
     id: 5,
-    name: "Breathable Cotton Fabric",
+    // name: "Breathable Cotton Fabric",
     category: "women",
     image: p5_img,
     new_price: "Buy Now",
@@ -80,7 +80,7 @@ let all_product = [
   },
   {
     id: 6,
-    name: "Premium Linen Fabric",
+    // name: "Premium Linen Fabric",
     category: "women",
     image: p6_img,
     new_price: "Buy Now",
@@ -88,7 +88,7 @@ let all_product = [
   },
   {
     id: 7,
-    name: "Luxury Linen Blend",
+    // name: "Luxury Linen Blend",
     category: "women",
     image: p7_img,
     new_price: "Buy Now",
@@ -96,7 +96,7 @@ let all_product = [
   },
   {
     id: 8,
-    name: "Premium Home Textile Fabric",
+    // name: "Premium Home Textile Fabric",
     category: "women",
     image: p8_img,
     new_price: "Buy Now",
@@ -104,7 +104,7 @@ let all_product = [
   },
   {
     id: 9,
-    name: "Industrial Textile Fabric",
+    // name: "Industrial Textile Fabric",
     category: "women",
     image: p9_img,
     new_price: "Buy Now",
@@ -112,7 +112,7 @@ let all_product = [
   },
   {
     id: 10,
-    name: "High-Quality Canvas Fabric",
+    // name: "High-Quality Canvas Fabric",
     category: "women",
     image: p10_img,
     new_price: "Buy Now",
@@ -120,7 +120,7 @@ let all_product = [
   },
   {
     id: 11,
-    name: "Breathable Apparel Fabric",
+    // name: "Breathable Apparel Fabric",
     category: "women",
     image: p11_img,
     new_price: "Buy Now",
@@ -128,7 +128,7 @@ let all_product = [
   },
   {
     id: 12,
-    name: "Heavy Canvas Fabric",
+    // name: "Heavy Canvas Fabric",
     category: "women",
     image: p12_img,
     new_price: "Buy Now",
@@ -136,7 +136,7 @@ let all_product = [
   },
   {
     id: 13,
-    name: "Original",
+    // name: "Original",
     category: "men",
     image: p13_img,
     new_price: "Buy Now",
@@ -144,7 +144,7 @@ let all_product = [
   },
   {
     id: 14,
-    name: "Soft Polyester Fabric",
+    // name: "Soft Polyester Fabric",
     category: "men",
     image: p14_img,
     new_price: "Buy Now",
@@ -152,7 +152,7 @@ let all_product = [
   },
   {
     id: 15,
-    name: "100% Pure Cotton Fabric",
+    // name: "100% Pure Cotton Fabric",
     category: "men",
     image: p15_img,
     new_price: "Buy Now",
@@ -160,7 +160,7 @@ let all_product = [
   },
   {
     id: 16,
-    name: "Woven Textile Fabric",
+    // name: "Woven Textile Fabric",
     category: "men",
     image: p16_img,
     new_price: "Buy Now",
@@ -168,7 +168,7 @@ let all_product = [
   },
   {
     id: 17,
-    name: "Decorative Upholstery Fabric",
+    // name: "Decorative Upholstery Fabric",
     category: "men",
     image: p17_img,
     new_price: "Buy Now",
@@ -176,7 +176,7 @@ let all_product = [
   },
   {
     id: 18,
-    name: "Knitted Stretch Fabric",
+    // name: "Knitted Stretch Fabric",
     category: "men",
     image: p18_img,
     new_price: "Buy Now",
@@ -184,7 +184,7 @@ let all_product = [
   },
   {
     id: 19,
-    name: "Breathable Apparel Fabric",
+    // name: "Breathable Apparel Fabric",
     category: "men",
     image: p19_img,
     new_price: "Buy Now",
@@ -192,7 +192,7 @@ let all_product = [
   },
   {
     id: 20,
-    name: "Polyester Blend Fabric",
+    // name: "Polyester Blend Fabric",
     category: "men",
     image: p20_img,
     new_price: "Buy Now",
@@ -200,7 +200,7 @@ let all_product = [
   },
   {
     id: 21,
-    name: "Heavy Canvas Fabric",
+    // name: "Heavy Canvas Fabric",
     category: "men",
     image: p21_img,
     new_price: "Buy Now",
@@ -208,7 +208,7 @@ let all_product = [
   },
   {
     id: 22,
-    name: "Premium Cotton Fabric",
+    // name: "Premium Cotton Fabric",
     category: "men",
     image: p22_img,
     new_price: "Buy Now",
@@ -216,7 +216,7 @@ let all_product = [
   },
   {
     id: 23,
-    name: "High-Quality Canvas Fabric",
+    // name: "High-Quality Canvas Fabric",
     category: "men",
     image: p23_img,
     new_price: "Buy Now",
@@ -224,7 +224,7 @@ let all_product = [
   },
   {
     id: 24,
-    name: "Woven Textile Fabric",
+    // name: "Woven Textile Fabric",
     category: "men",
     image: p24_img,
     new_price: "Buy Now",
@@ -232,7 +232,7 @@ let all_product = [
   },
   {
     id: 25,
-    name: "Premium Home Textile Fabric",
+    // name: "Premium Home Textile Fabric",
     category: "kid",
     image: p25_img,
     new_price: "Buy Now",
@@ -248,7 +248,7 @@ let all_product = [
   },
   {
     id: 27,
-    name: "Soft Touch Fashion Fabric",
+    // name: "Soft Touch Fashion Fabric",
     category: "kid",
     image: p27_img,
     new_price: "Buy Now",
@@ -256,7 +256,7 @@ let all_product = [
   },
   {
     id: 28,
-    name: "High-Density Polyester",
+    // name: "High-Density Polyester",
     category: "kid",
     image: p28_img,
     new_price: "Buy Now",
@@ -264,7 +264,7 @@ let all_product = [
   },
   {
     id: 29,
-    name: "Technical Textile",
+    // name: "Technical Textile",
     category: "kid",
     image: p29_img,
     new_price: "Buy Now",
@@ -272,7 +272,7 @@ let all_product = [
   },
   {
     id: 30,
-    name: "Printed Cotton Fabric",
+    // name: "Printed Cotton Fabric",
     category: "kid",
     image: p30_img,
     new_price: "Buy Now",
@@ -280,7 +280,7 @@ let all_product = [
   },
   {
     id: 31,
-    name: "Printed Cotton Fabric",
+    // name: "Printed Cotton Fabric",
     category: "kid",
     image: p31_img,
     new_price: "Buy Now",
@@ -288,7 +288,7 @@ let all_product = [
   },
   {
     id: 32,
-    name: "Premium Cotton Fabric",
+    // name: "Premium Cotton Fabric",
     category: "kid",
     image: p32_img,
     new_price: "Buy Now",
@@ -296,7 +296,7 @@ let all_product = [
   },
   {
     id: 33,
-    name: "Textile Collection",
+    // name: "Textile Collection",
     category: "kid",
     image: p33_img,
     new_price: "Buy Now",
@@ -304,7 +304,7 @@ let all_product = [
   },
   {
     id: 34,
-    name: "Textile Collection",
+    // name: "Textile Collection",
     category: "kid",
     image: p34_img,
     new_price: "Buy Now",
@@ -312,7 +312,7 @@ let all_product = [
   },
   {
     id: 35,
-    name: "Featured Fabrics",
+    // name: "Featured Fabrics",
     category: "kid",
     image: p35_img,
     new_price: "Buy Now",
@@ -320,7 +320,7 @@ let all_product = [
   },
   {
     id: 36,
-    name: "Fabric Showcase",
+    // name: "Fabric Showcase",
     category: "kid",
     image: p36_img,
     new_price: "Buy Now",
