@@ -240,7 +240,7 @@ let all_product = [
   },
   {
     id: 26,
-    name: "Curtain Fabric Collection",
+    // name: "Curtain Fabric Collection",
     category: "kid",
     image: p26_img,
     new_price: "Buy Now",

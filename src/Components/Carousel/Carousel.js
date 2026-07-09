@@ -5,7 +5,7 @@ import Slider from "react-slick";
 import "./Carousel.css";
 import pic1 from "../Assets/Fabric/gee10.jpg"
 import pic2 from "../Assets/Fabric/gee23.jpg"
-import pic3 from "../Assets/Fabric/gee4.jpg"
+import pic3 from "../Assets/Fabric/gee8.jpg"
 import pic4 from "../Assets/Fabric/gee6.jpg"
 import pic5 from "../Assets/Fabric/gee12.jpg"
 import pic6 from "../Assets/Fabric/gee22.jpg"
@@ -61,32 +61,32 @@ function Carousel() {
         <Slider {...settings}>
 
 <div className='slider-div'>
-  <h3 > Fabric</h3>
+  <h3 > Solar Panels</h3>
   <img src={pic1} alt="Chicks" className='cont' />
 </div>
 
  <div className='slider-div'>
-<h3> Coloured</h3>
+<h3> Battery</h3>
 <img src={pic2} alt="" className='cont' />
 </div> 
 
 <div className='slider-div'>
-<h3>Smooth Fabric</h3>
+<h3>Panels</h3>
 <img src={pic3} alt="" className='cont' />
 </div>
 
 <div className='slider-div'>
-<h3> Soft</h3>
+<h3> Quality</h3>
 <img src={pic4} alt="" className='cont'  />
 </div>
 
 <div className='slider-div'>
-<h3> Plain</h3>
+<h3> Premium</h3>
 <img src={pic5} alt="" className='cont'  />
 </div>
 
 <div className='slider-div'>
-<h3> Clean</h3>
+<h3> Modern</h3>
 <img src={pic6} alt="" className='cont'  />
 </div>
 
