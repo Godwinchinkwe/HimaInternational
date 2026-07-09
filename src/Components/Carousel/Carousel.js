@@ -61,17 +61,17 @@ function Carousel() {
         <Slider {...settings}>
 
 <div className='slider-div'>
-  <h3 > Solar Panels</h3>
+  <h3 > Solar Batteries</h3>
   <img src={pic1} alt="Chicks" className='cont' />
 </div>
 
  <div className='slider-div'>
-<h3> Battery</h3>
+<h3> Batteries</h3>
 <img src={pic2} alt="" className='cont' />
 </div> 
 
 <div className='slider-div'>
-<h3>Panels</h3>
+<h3>Batteries</h3>
 <img src={pic3} alt="" className='cont' />
 </div>
 
