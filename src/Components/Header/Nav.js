@@ -34,9 +34,9 @@ function Nav() {
         style={({ isActive }) => (isActive ? activeStyle : undefined)}>
         <p class="nav_text"> Contact Us</p></NavLink>
 
-        <NavLink to="Faq/" className="nav_text1"
+        {/* <NavLink to="Faq/" className="nav_text1"
         style={({ isActive }) => (isActive ? activeStyle : undefined)}>
-        <p class="nav_text"> FAQ</p></NavLink>
+        <p class="nav_text"> FAQ</p></NavLink> */}
 
     </div>
   )

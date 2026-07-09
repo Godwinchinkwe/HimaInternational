@@ -1,52 +1,4 @@
-/* 
 
-.company-intro{
-    padding:80px 0;
-    text-align:center
-}
-.tag{
-    background:#D4AF37;
-    color:#fff;
-    padding:8px 16px;
-    border-radius:20px;
-    font-size:13px
-}
-.company-intro h1{
-    color:#0B3D91;
-    font-size:46px;margin:20px 0
-}
-.company-intro p{
-    max-width:850px;
-    margin:0 auto;
-    color:#666;
-    line-height:1.8
-}
-.feature-grid{display:grid;
-    grid-template-columns:repeat(auto-fit,minmax(240px,1fr));
-    gap:24px;
-    margin-top:50px
-}
-.card{background:#fff;padding:30px;border-radius:16px;box-shadow:0 10px 25px rgba(0,0,0,.08);transition:.3s}
-.card:hover{transform:translateY(-8px)}
-.card svg{font-size:42px;color:#0B3D91}
-.card h3{margin:16px 0;color:#0B3D91}
-.why{padding:80px 0;background:#fff}
-.why h2{text-align:center;font-size:40px;color:#0B3D91;margin-bottom:40px}
-.checks{display:grid;grid-template-columns:repeat(auto-fit,minmax(260px,1fr));gap:18px}
-.check{background:#f4f6f9;padding:18px;border-radius:12px;display:flex;gap:10px;align-items:center}
-.check svg{color:#D4AF37}
-.stats{display:grid;grid-template-columns:repeat(auto-fit,minmax(180px,1fr));gap:20px;margin-top:50px}
-.stats div{background:#0B3D91;color:#fff;padding:30px;border-radius:14px;text-align:center}
-.stats h3{font-size:38px;color:#D4AF37}
-.cta{padding:90px 20px;text-align:center;background:#0B3D91;color:#fff}
-.cta button{margin-top:25px;background:#D4AF37;border:none;padding:14px 28px;border-radius:8px;font-size:18px;cursor:pointer}
-@media(max-width:768px){
-.company-intro h1{font-size:34px}
-.why h2{font-size:30px}
-} */
- /* =====================================================
-   HERO PAGE
-===================================================== */
 
 .hero-page {
     overflow: hidden;
@@ -84,7 +36,7 @@
     margin: 20px 0;
     font-size: 46px;
     font-weight: 700;
-    color: #0B3D91;
+    color: #1E8E3E;
     line-height: 1.3;
 }
 
@@ -123,12 +75,12 @@
 
 .card svg {
     font-size: 42px;
-    color: #0B3D91;
+    color:#1E8E3E;
     margin-bottom: 15px;
 }
 
 .card h3 {
-    color: #0B3D91;
+    color: #1E8E3E;
     margin-bottom: 15px;
     font-size: 24px;
 }
@@ -150,7 +102,7 @@
 
 .why h2 {
     text-align: center;
-    color: #0B3D91;
+    color:#1E8E3E;
     font-size: 40px;
     margin-bottom: 50px;
 }
@@ -197,7 +149,7 @@
 }
 
 .stats div {
-    background: #0B3D91;
+    background: #1E8E3E;
     color: #fff;
     border-radius: 16px;
     padding: 35px 20px;
@@ -219,7 +171,7 @@
 ===================================================== */
 
 .cta {
-    background: #0B3D91;
+    background:#1E8E3E;
     color: #fff;
     text-align: center;
     padding: 90px 20px;
@@ -411,7 +363,7 @@
     z-index: 999;
     width: 100%;
     height: 100%;
-    background: blue;
+    background:#1E8E3E;
 }
 .about_us{
     background: #f8f3f3; 

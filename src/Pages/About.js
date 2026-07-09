@@ -25,7 +25,7 @@ const About = () => {
           <h1>Connecting Global Markets with Confidence</h1>
 
           <p>
-           Hang Zhou Huichang Ruida Trading Co., Ltd is a trusted
+           Hima International Ltd. is a trusted
             international trading company specializing in sourcing,
             procurement, manufacturing coordination, and global logistics.
             We help businesses around the world access high-quality products,
@@ -50,7 +50,7 @@ const About = () => {
             <h2>Who We Are</h2>
 
             <p>
-              Hang Zhou Huichang Ruida Trading Co., Ltd is committed to
+              Hima International Ltd. is committed to
               simplifying international trade by connecting global buyers with
               trusted manufacturers and suppliers. Our expertise covers product
               sourcing, OEM manufacturing, procurement, quality inspection,

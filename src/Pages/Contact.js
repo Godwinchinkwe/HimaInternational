@@ -59,8 +59,8 @@ const About = () => {
               <div className='text'>
                 <h3>Head office & Showroom</h3>
                 <p> 
-                Building 5, No. 1910 Youyi Road, Guali
-District, Hang Zhou, Zhejiang 311241, China
+                Beneficiary Add: ROOM S239, 2/F, THE CAPITAL, 61-65 CHATHAM ROAD SOUTH,
+TSIM SHA TSUI KOWLOON, HONG KONG
                 </p>
               </div>
             </div>
@@ -68,7 +68,7 @@ District, Hang Zhou, Zhejiang 311241, China
               <div className='icon'><MdOutlineMarkEmailUnread /></div>
               <div className='text'>
                 <h3>Emails</h3>
-                <p>HangzhongHuichangRuida@gmail.com </p>
+                <p>Himainternationallimited@gmail.com </p>
               </div>
             </div>
             <div className='box'>

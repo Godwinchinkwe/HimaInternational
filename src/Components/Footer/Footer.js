@@ -3,7 +3,7 @@ import "./Footer.css"
 import { FaTiktok } from "react-icons/fa";
 import { FaFacebook } from "react-icons/fa";
 import { FaInstagram } from "react-icons/fa";
-import apf_logo from "../Assets/logo.png"
+import apf_logo from "../Assets/logo.jpg"
 import {useNavigate} from "react-router-dom"
 import { Link } from 'react-router-dom'
 

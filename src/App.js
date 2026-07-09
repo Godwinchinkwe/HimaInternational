@@ -11,7 +11,7 @@ import PrivacyPolicy from './Pages/PrivacyPolicy';
 // import Whatsapp from './Components/Whatsapp/whatsapp';
 import TermsAndCondition from "./Pages/TermsAndCondition"
 import Gallery from "./Pages/Gallery"
-import Faq from './Pages/Faq';
+// import Faq from './Pages/Faq';
 
 function App() {
   return (
@@ -22,7 +22,7 @@ function App() {
        <Routes>
         <Route path="/" element={<Hero/>} />
         <Route path='/about' element={<About/>}/>
-        <Route path='/faq' element={<Faq/>}/>
+        {/* <Route path='/faq' element={<Faq/>}/> */}
         <Route path="/services" element={<Services/>} />
         <Route path="/gallery" element={<Gallery/>} />
         <Route path="/contact" element={<Contact/>} />
