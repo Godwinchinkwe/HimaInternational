@@ -75,7 +75,7 @@ TSIM SHA TSUI KOWLOON, HONG KONG
               <div className='icon'><FaPhone /> </div>
               <div className='text'>
                 <h3>Phone No</h3>
-                <p>+86 45768976901</p>
+                <p>+86 2966435851</p>
               </div>
             </div>
           </div>
