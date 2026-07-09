@@ -58,7 +58,7 @@ const Product = () => {
         </div>
       )} */}
     </div>
-            <h1> Explore Our Available Fabrics</h1>
+            <h1> Explore Our Available Products</h1>
         <hr/>
         <div className='popular-products'>
             {all_product.map((item)=>{

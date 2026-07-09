@@ -10,8 +10,8 @@ const DescriptionBox = () => {
         <div className='description-nav-box fade'>Reviews (122)</div>
        </div>
        <div className='descriptionbox-description'>
-        <p> We offer a wide selection of premium-quality fabrics designed for durability, comfort, and style. Our collection includes materials suitable for apparel, home textiles, upholstery, and industrial applications, sourced from trusted manufacturers to ensure consistent quality and competitive pricing</p>
-        <p> Our fabric products are carefully sourced to meet international quality standards, offering excellent durability, comfort, and versatility. We provide reliable textile solutions for manufacturers, retailers, and wholesalers worldwide. </p>
+        <p> Store excess solar energy with our advanced solar batteries, providing dependable backup power, improved energy efficiency, and uninterrupted electricity whenever you need it most.</p>
+        <p> Our high-quality junction boxes ensure safe, efficient, and reliable electrical connections for solar power systems, offering superior protection, durability, and long-term performance in all weather conditions.</p>
        </div>
     </div>
     </div>

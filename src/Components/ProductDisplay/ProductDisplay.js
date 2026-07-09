@@ -40,10 +40,10 @@ const ProductDisplay = () => {
           <div className='productdisplay-right-price-new'>#{product.new_price}</div>
         </div>
         <div className='productdisplay-right-description'>
-          High-quality fabrics for fashion, home décor, upholstery, and commercial use, available in a variety of colors, textures, and materials to meet diverse customer needs.
+          Harness clean, renewable energy with our high-efficiency solar panels, designed to deliver reliable performance, maximum power output, and long-lasting durability for residential, commercial, and industrial applications
         </div>
         <div className='productdisplay-right-size'>
-          <h1>Premium Fabric & Textile Solutions </h1>
+          <h1>Premium High Quality Products</h1>
           <div className='productdisplay-right-sizes'>
             {/* <div>S</div>
             <div>M</div>
@@ -52,8 +52,8 @@ const ProductDisplay = () => {
             <div>XXL</div> */}
           </div>
           <a target="_blank" rel="noreferrer" href="wa.link/j6fezi"><button>Order Now</button></a>
-          <p className='productdisplay-right-category'><span>Category:</span> Acrylic Frame</p>
-          <p className='productdisplay-right-category'><span>Tags</span> Modern, Latest, Branded</p>
+          <p className='productdisplay-right-category'><span>Category:</span> Solar</p>
+          <p className='productdisplay-right-category'><span>Tags</span> High Quality </p>
 
         </div>
       </div>
