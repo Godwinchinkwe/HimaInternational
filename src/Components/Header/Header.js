@@ -6,7 +6,7 @@ import {FaTimes} from 'react-icons/fa'
 // import {BiLogoUnsplash} from 'react-icons/bi'
 import {useNavigate} from "react-router-dom"
 import Dropdown from "./Falldown"
-import apf_logo from "../Assets/logo.jpg"
+import apf_logo from "../Assets/logo.png"
 
 function Header() {
 
